@@ -1,0 +1,21 @@
+<doctype html>
+<html>
+   <head>
+	 <title>paragraph</title>
+   </head>
+  <body>
+	 <h1>HTML</h1>
+     <p><b>the html is the used to</b> </p>
+     <! this is a comm>
+     <p><b>i use linking function</b></p>
+     <a href="https://www.google.com/search?sxsrf=ACYBGNScflRXYobgtTE5187pIBiprB-g4w:1580061114241&ei=utEtXt22DovorQHtpI3YAQ&q=how+to+get+internship+in+2+year+2019+for+cs+student&oq=how+to+get+internship+in+2+year+2019+for+cs+student&gs_l=psy-ab.3..33i160.12094.17145..17997...0.2..0.196.2515.0j15......0....1..gws-wiz.......0i71j33i21.Ei0Ejxw0IJo&uact=5&ibp=htl;jobs&sa=X&ved=2ahUKEwiGocq06qHnAhVTJHIKHZkHDycQiYsCKAF6BAgFEBA#htivrt=jobs&htidocid=gvRmHla7grUwjuXJAAAAAA%3D%3D&fpstate=tldetail">intership</a>
+     <p><b>i use their image tag</b></p>
+     <img src="C:\Users\HP\Desktop\photoshop product work\ANDROID APP WORKSHOP.jpg" height="100px"
+     width="150px">
+     <ul>
+     	<li>HTML</li>
+     	<li>CSS</li>
+     	<li>web development</li>
+     </ul>
+	</body>
+</html>
